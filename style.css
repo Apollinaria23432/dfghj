@@ -1,0 +1,40 @@
+.txt{
+    width: 400px;
+    margin: 50px;
+}
+
+.block{
+    display: flex;
+}
+
+.block img{
+    width: 400px;
+}
+
+.lkjh img{
+    width: 100px;
+
+}
+
+.lkjh{
+    display: flex;
+    justify-content: space-around;
+}
+.csxsjx{
+    background-color: rgb(201, 199, 199);
+    width: 1200px;
+    margin-left:auto;
+    margin-right:auto ;
+}
+.dddds{
+    width: 300px;
+    background-color:white;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+}
+.hnjmk{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
